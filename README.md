@@ -1,2 +1,6 @@
-# desafio-classificador-de-nivel
-Classificador de nível de herói que atribui um rank baseado na quantidade de XP. Os níveis variam de "Ferro" a "Radiante". O projeto utiliza estruturas condicionais para calcular o nível e exibir uma mensagem personalizada com o nome e o nível do herói, dependendo da experiência.
+# Desafio Classificador de Nível
+Este projeto classifica o nível de um herói baseado na sua experiência (XP). O nível é determinado por faixas de XP.
+
+## Como usar:
+1. Defina o nome e a quantidade de XP do herói no código.
+2. O nível do herói será exibido no console.
